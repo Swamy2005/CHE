@@ -1,0 +1,20 @@
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    background-color: #3498db;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    outline: none;
+  }
+
+  button:hover {
+    background-color: #2980b9;
+  }
+  body {
+    background-image: url('https://thumbs.dreamstime.com/b/noise-background-effect-sound-effect-grain-distress-overlay-texture-your-design-grainy-gradient-background-noise-145456802.jpg');
+    background-size: cover; /* Adjust as needed */
+    background-position: center; /* Adjust as needed */
+    background-repeat: no-repeat;
+  }

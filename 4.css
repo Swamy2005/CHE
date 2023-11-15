@@ -1,0 +1,54 @@
+body {
+    background-image: url('https://www.hcn.org/issues/55.9/wildlife-and-the-inescapable-impact-of-road-noise/theblabpave-23-3-jpg/image');
+    background-size: cover; /* Adjust as needed */
+    background-position: center; /* Adjust as needed */
+    background-repeat: no-repeat;
+  }
+
+
+
+.img13{
+    margin: auto;
+    width: 640px;
+    padding: 50px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: right;
+}
+.img12{
+    margin: auto;
+    width: 640px;
+    padding: 50px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: left;
+}
+
+.img15{
+        margin: auto;
+        width: 640px;
+        padding: 50px;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        text-align: bottom;
+}
+.img14{
+    margin: auto;
+    width: 640px;
+    padding: 50px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: bottom;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    background-color: #3498db;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    outline: none;
+    text-align: center;
+  }
+
+  button:hover {
+    background-color: #2980b9;
+  }
